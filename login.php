@@ -37,7 +37,7 @@ session_start();
 ?>
 	<form method="POST" action="login.php">
 	<fieldset>
-	    <legend>Đăng nhập</legend>
+	    <legend>Login</legend>
 	    	<table>
 	    		<tr>
 	    			<td>Username</td>
